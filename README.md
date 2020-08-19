@@ -1,5 +1,5 @@
 # Multi-label-classification
-环境 
+环境 	
 python3 bert4keras 0.7.5
 预训练模型 
 本项目中使用的模型是small electra，对性能要求较低，可以使用其他模型替代
